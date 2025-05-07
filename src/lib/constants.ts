@@ -24,7 +24,7 @@ const CAMPOS_INPUT = {
           100000,
         ],
       },
-    },
+    }
   ],
   // Adding more mockup fields
   detalles: [
